@@ -2,9 +2,8 @@
 
 #include "Resource.hpp"
 
-class ResourceManager
-{
-        Resource* resource;
+class ResourceManager{
+    Resource* resource;
 
     public:
     // konstruktor
